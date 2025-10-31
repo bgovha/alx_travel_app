@@ -7,3 +7,5 @@ django-environ==0.11.2
 drf-yasg==1.21.7
 mysqlclient==2.2.0
 rabbitmq==0.2.0
+Pillow==10.0.0
+gunicorn==20.1.0
